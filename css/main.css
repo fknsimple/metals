@@ -26,7 +26,7 @@ Author URL:       http://www.tommy-perez.com
 /* ==========================================================================
    IMPORT GOOGLE FONTS
    ========================================================================== */
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600|Roboto");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800|Roboto");
 /* ==========================================================================
    GENERAL
    ========================================================================== */
@@ -56,7 +56,7 @@ a:hover, a:focus {
 }
 
 a {
-  color: #3c9cfd;
+  color: #fff;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -64,7 +64,7 @@ a {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat';
   font-size: 40px;
   font-weight: 700;
   color: #191c1e;
@@ -120,7 +120,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   line-height: 56px;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -181,7 +181,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 	font-size: 12px;
 	padding: 5px 0px;
 	margin-left: 30px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -274,7 +274,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .hero-area .contents h2 {
   color: #fff;
   font-size: 42px;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 60px;
   margin-bottom: 25px;
 }
@@ -339,8 +339,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   line-height: 65px;
   margin-bottom: 25px;
   font-weight: 800;
-	
-	    min-height: 0px;
+	min-height: 0px;
     min-width: 0px;
     max-height: none;
     max-width: none;
@@ -1739,7 +1738,7 @@ footer .footer-Content h4 {
 	left: 50%;*/
 	
   margin-bottom: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 	vertical-align: middle;
  /* -webkit-background-clip: text;
@@ -2141,7 +2140,7 @@ footer .menu li a:hover {
   font-size: 40px;
   padding: 10px 30px;
   border-radius: 30px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 1px;
   font-weight: 700;
   color: #ffffff !important;
@@ -2292,7 +2291,7 @@ button:focus {
 
 .btn-subtitle {
   color: #191c1e;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background: #dbecff;
   text-align: center;
   border-radius: 30px;
