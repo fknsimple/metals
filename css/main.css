@@ -139,7 +139,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
    ========================================================================== */
 .logo-menu a {
   font-size: 20px;
-  color: #fff;
+  color: #dba832;
 }
 
 .menu-bg {
@@ -161,7 +161,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .menu-bg .logo-menu a {
-/*  color: #3c9cfd;*/
+/*  */color: #dba832;
 }
 
 .menu-bg .navbar-nav .nav-link {
@@ -222,7 +222,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .navbar-expand-md .navbar-nav .nav-link.active:before,
 .navbar-expand-md .navbar-nav .nav-link.open,
 .navbar-expand-md .navbar-nav .open > .nav-link {
-  color: #ffffff;
+  color: #dba832;
 }
 
 .navbar-expand-md .navbar-toggler {
