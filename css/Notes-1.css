@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/*FOR THE RADIAL ICON*/
+
+10.07: Have it displayed. Need to center it properly on page
+
+contianer
+
+controls
+
+
+
+/*SECTION*/
+
+#carousel-area .carousel-control-next i, #carousel-area .carousel-control-prev i {
+  width: 48px;
+  line-height: 48px;
+  height: 48px;
+  color: #3c9cfd;
+  font-size: 24px;
+  display: inline-block;
+  background: #fff;
+  border-radius: 30px;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+
+TEAM
+<!-- 2nd Row and Scroller Wrapper Starts -->
+        <div class="row" id="clients-scroller">
+          <!-- START TEAM MEMBER -->
+			<div class="client-item-wrapper">
+			  <div class="single-team wow fadeInUp" data-wow-delay="0.2s">
+              <div class="team-thumb">
+                <img src="Assets/Michael-Headshot-Aug-2018-copy-2.png" alt="">
+                <!--<ul class="social-list">
+                  <li class="facebook"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                  <li class="twitter"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                  <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
+                  <li class="linkedin"><a href="#"><i class="lni-linkedin-fill"></i></a></li>
+                </ul>-->
+              </div>
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Michael</h4>
+                  <p>Filmographer and Editor</p>
+                </div>
+              </div>
+            </div>
+          </div>
+			<!-- END TEAM MEMBER  -->
+          <!-- START TEAM MEMBER -->
+			<div class="client-item-wrapper">
+            <div class="single-team wow fadeInUp" data-wow-delay="0.2s">
+              <div class="team-thumb">
+                <img src="Assets/Mohiuddin-Headshot-Aug-2018-copy-2.png" alt="">
+                <!--<ul class="social-list">
+                  <li class="facebook"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                  <li class="twitter"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                  <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
+                  <li class="linkedin"><a href="#"><i class="lni-linkedin-fill"></i></a></li>
+                </ul>-->
+              </div>
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Michael</h4>
+                  <p>Marketing Consultant</p>
+                </div>
+              </div>
+            </div>
+          </div>
+			<!-- END TEAM MEMBER  -->
+          <!-- START TEAM MEMBER -->
+			<div class="client-item-wrapper">		
+			  <div class="single-team wow fadeInUp" data-wow-delay="0.3s">
+              <div class="team-thumb">
+                <img src="Assets/Jamal-AlSarabi-Image-1.png" alt="">
+                <!--<ul class="social-list">
+                  <li class="facebook"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                  <li class="twitter"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                  <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
+                  <li class="linkedin"><a href="#"><i class="lni-linkedin-fill"></i></a></li>
+                </ul>-->
+              </div>
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Shahin</h4>
+                  <p>Creative Director</p>
+                </div>
+              </div>
+            </div>
+          </div>
+		<!-- END TEAM MEMBER  -->
+          <!-- START TEAM MEMBER -->
+			<div class="client-item-wrapper">			  			  			
+			  <div class="single-team wow fadeInUp" data-wow-delay="0.4s">
+              <div class="team-thumb">
+                <img src="Assets/Ricardo_Calazans_7221a-1.png" alt="">
+                <!--<ul class="social-list">
+                  <li class="facebook"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                  <li class="twitter"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                  <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
+                  <li class="linkedin"><a href="#"><i class="lni-linkedin-fill"></i></a></li>
+                </ul>-->
+              </div>
+              <div class="team-details">
+                <div class="team-inner">                  
+                  <h4 class="team-title">Olson</h4>
+                  <p>UI/UX Designer</p>
+                </div>
+              </div>
+            </div>
+          </div>
+			<!-- END TEAM MEMBER  -->
+          <!-- START TEAM MEMBER -->
+			<div class="client-item-wrapper"> 
+			  <div class="single-team wow fadeInUp" data-wow-delay="0.3s">
+              <div class="team-thumb">
+                <img src="Assets/Shahin-Headshot-1.png" alt="">
+               <!-- <ul class="social-list">
+                  <li class="facebook"><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                  <li class="twitter"><a href="#"><i class="lni-twitter-filled"></i></a></li>
+                  <li class="google-plus"><a href="#"><i class="lni-google-plus"></i></a></li>
+                  <li class="linkedin"><a href="#"><i class="lni-linkedin-fill"></i></a></li>
+                </ul>-->
+              </div>
+              <div class="team-details">
+                <div class="team-inner">
+                  <h4 class="team-title">Shahin</h4>
+                  <p>Web Developer</p>
+                </div>
+              </div>
+            </div>
+			  
+          </div>
+			<!-- END TEAM MEMBER  -->
+        </div>	
+
+
+
+
+
+
+
+/**/
+ margin-bottom: 0;
+
+/*QA*/
+1. How do I  ' color: white; ' the Navbar by default?
