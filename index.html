@@ -52,7 +52,12 @@
                 <a class="nav-link page-scroll" href="#team">TEAM</a>
               </li>  
               <li class="nav-item">
-                <a class="nav-link page-scroll" href="#">LOGIN</a>
+<!--                <a class="nav-link page-scroll" href="#">LOGIN</a>
+				  <a data-securitize-state="logged-out"
+data-securitize-action="login" class="nav-link page-scroll">LOGIN</a>
+<a style="display: none" data-securitize-state="logged-in"
+data-securitize-action="dashboard" class="nav-link page-scroll">DASHBOARD</a>-->
+				  <a class="nav-link page-scroll" role="button" data-securitize-action="login" data-securitize-logged-in-action="logout" data-securitize-logged-in-text="Logout" data-securitize-logged-out-action="login" data-securitize-logged-out-text="Login">LOGIN</a>
               </li> 
               <li class="nav-item">
 				  <a class="nav-link page-scroll" href="#map-area"><img src="Assets/icon-search.png" alt="" width="18" height="18"></a>
