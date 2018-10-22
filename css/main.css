@@ -117,21 +117,22 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .section-header .section-title {
-  font-size: 55px;
-  line-height: 56px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-fill-color: transparent;
-  background-color: #000000;
-  /*background-image: -webkit-linear-gradient(bottom right, #3c96ff, #2dfbff);
+	font-size: 55px;
+	line-height: 64px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	background-color: #000000;
+	/*
+	text-fill-color: transparent;
+	background-image: -webkit-linear-gradient(bottom right, #3c96ff, #2dfbff);
   background-image: -o-linear-gradient(bottom right, #3c96ff, #2dfbff);
   background-image: linear-gradient(to top left, #3c96ff, #2dfbff);*/
-  position: relative;
+	position: relative;
 }
 
 
@@ -2138,7 +2139,7 @@ footer .menu li a:hover {
    Buttons
    ========================================================================== */
 .btn {
-  font-size: 40px;
+  font-size: 18px;
   padding: 10px 30px;
   border-radius: 30px;
   font-family: 'Montserrat', sans-serif;
